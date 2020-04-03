@@ -1,4 +1,4 @@
-# Mobile Phone Like dislike Project
+# Mobile Phone Like-Dislike Project
  In this project we try to predict a user will like a mobile phone or not using basic Deep Learning techinque and try to compare them in respect of there accuracy.
  
 ### Model: 
