@@ -12,6 +12,6 @@
  3. Scikit-Learn
  4. Matplotlib
 ### Accuracy Achieved:
- 1. MP Neuron(~79%)
- 2. Perceptron(~88%)
+ 1. [MP Neuron(~79%)](https://github.com/somnath119/Mobile_Phone_Like_dislike_Project/blob/master/like_Dislike_MP_Neuron.ipynb)
+ 2. [Perceptron(~88%)](https://github.com/somnath119/Mobile_Phone_Like_dislike_Project/blob/master/Like_Dislike_Perceptron.ipynb)
 ### Number of Feature used: 86
